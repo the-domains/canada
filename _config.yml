@@ -1,0 +1,14 @@
+layout_spectrum: 0.6648374118376523
+typography_spectrum: 0.07374371215701103
+color:
+  brandStrength: 0.5432674284093082
+  lightness: 0.97405478451401
+  saturation: 0.17718935362063348
+  rhythmicContrast: 0.9145868211053312
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: canada
